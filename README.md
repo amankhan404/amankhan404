@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/amankhan404](https://www.linkedin.com/in/amankhan404)
  
-- 👨‍💻 My Hashnode Blogs [https://hashnode.com/@amankhan404](https://hashnode.com/@amankhan404)
+- 👨‍💻 My Hashnode Blogs [https://amankhan404.hashnode.dev/](https://amankhan404.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
