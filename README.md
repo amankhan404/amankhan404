@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amankhan404.github.io/react-portfolio/](https://amankhan404.github.io/react-portfolio/)
 
-- 📫 How to reach me **amanlala40443@gmail.com**
+- 📫 How to reach me **amankhanak4017@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/amankhan404](https://www.linkedin.com/in/amankhan404)
  
